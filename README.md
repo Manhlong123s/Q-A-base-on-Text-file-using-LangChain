@@ -1,1 +1,1 @@
-# Q-A-base-on-Text-file-using-LangChain
+# Q&A-base-on-Text-file-using-LangChain
